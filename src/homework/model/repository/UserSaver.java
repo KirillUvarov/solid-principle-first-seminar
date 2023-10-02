@@ -1,4 +1,4 @@
-package homework.util.impl;
+package homework.model.repository;
 
 import homework.model.User;
 

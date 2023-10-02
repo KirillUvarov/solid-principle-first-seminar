@@ -1,7 +1,7 @@
 package homework;
 
 import homework.model.User;
-import homework.util.impl.UserSaver;
+import homework.model.repository.UserSaver;
 
 public class Main {
 
