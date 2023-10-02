@@ -1,7 +1,7 @@
 package homework.model;
 
 import homework.util.Reportable;
-import homework.util.impl.UserReporter;
+import homework.view.UserReporter;
 
 public class User{
     private final String name;

@@ -1,4 +1,4 @@
-package homework.util.impl;
+package homework.view;
 
 import homework.model.User;
 import homework.util.Reportable;
