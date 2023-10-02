@@ -50,5 +50,5 @@ public class Square {
         }
 
         System.out.println(builder);
-    }
+    } //Этот класс должен быть выведет отдельно
 }

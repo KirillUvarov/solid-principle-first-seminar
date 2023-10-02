@@ -1,9 +1,13 @@
 package homework;
 
-public class Main{
-    public static void main(String[] args){
+import homework.model.User;
+import homework.util.impl.UserSaver;
+
+public class Main {
+
+    public static void main(String[] args) {
         User user = new User("Bob");
         user.report();
-        user.save();
+        UserSaver.save(user);
     }
 }
